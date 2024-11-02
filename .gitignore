@@ -256,3 +256,8 @@ $RECYCLE.BIN/
 .data
 data/
 
+.movie_lens_100k.pkl
+movie_lens_100k.pkl/
+
+.image
+image/
