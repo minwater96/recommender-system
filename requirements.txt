@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy>=1.11.3
+scikit-learn
+tensorflow
+torch 
+transformers
